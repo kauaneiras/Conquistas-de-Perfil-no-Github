@@ -43,6 +43,7 @@
 #### Você pode alterar seu Tom de Pele preferido indo para [configurações de aparência](https://github.com/settings/appearance).
 
 <br>
+
 | Distintivo | Nome | Versões de Tons de Pele |
 | :-: | :-: | :-: |
 | ![Starstruck](/Media/Badges/Star-Struck/PNG/Skin-Tones/StarStruck_SkinTone1.png) | Starstruck | <table> <thead> <tr> <th>👋</th> <th>👋🏻</th> <th>👋🏼</th> <th>👋🏽</th> <th>👋🏾</th> <th>👋🏿</th> </tr> </thead> <tbody> <tr> <td align="center"><img src="/Media/Badges/Star-Struck/PNG/Skin-Tones/StarStruck_SkinTone1.png" width="60px"></td> <td align="center"><img src="/Media/Badges/Star-Struck/PNG/Skin-Tones/StarStruck_SkinTone2.png" width="60px"></td> <td align="center"><img src="/Media/Badges/Star-Struck/PNG/Skin-Tones/StarStruck_SkinTone3.png" width="60px"></td> <td align="center"><img src="/Media/Badges/Star-Struck/PNG/Skin-Tones/StarStruck_SkinTone4.png" width="60px"></td> <td align="center"><img src="/Media/Badges/Star-Struck/PNG/Skin-Tones/StarStruck_SkinTone5.png" width="60px"></td> <td align="center"><img src="/Media/Badges/Star-Struck/PNG/Skin-Tones/StarStruck_SkinTone6.png" width="60px"></td> </tr> <tr> <td align="center">👋</td> <td align="center">👋🏻</td> <td align="center">👋🏼</td> <td align="center">👋🏽</td> <td align="center">👋🏾</td> <td align="center">👋🏿</td> </tr> </tbody> </table> |
