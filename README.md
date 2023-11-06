@@ -1,6 +1,6 @@
 <!-- <div align="center"> -->
 
-# 🏆 Conquistas no GitHub 🏆
+# 🏆 Conquistas de Perfil no GitHub 🏆
 
 <br>
 
@@ -18,7 +18,7 @@
 
 <br>
 
-# 🏅 Exibindo Conquistas 🏅
+# 🏅 Como Exibir Suas Conquistas?
 
 #### A exibição de conquistas em seu perfil é totalmente opcional; por padrão, elas podem ser vistas por qualquer pessoa que visualize seu perfil público.
 
