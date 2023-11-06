@@ -7,8 +7,7 @@
 <div align="center">
   <picture>
   <!-- TODO Não consegui descobrir como adicionar corretamente links locais no lugar dessas imagens. Isso deve ser corrigido mais tarde. - @seanpm2001 !-->
-    <source media="(prefers-color-scheme: light)" srcset="https://res.cloudinary.com/practicaldev/image/fetch/s--8T45m7HC--/c_imagga_scale,f_auto,fl_progressive,h_720,q_auto,w_1280/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/c7yprgpyxwyeh6xna6p0.jpg">
-    <img src="https://user-images.githubusercontent.com/65187002/172940773-7ef23b63-3356-4634-9e52-34f2676e2854.png">
+    <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--8T45m7HC--/c_imagga_scale,f_auto,fl_progressive,h_720,q_auto,w_1280/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/c7yprgpyxwyeh6xna6p0.jpg">
   </picture><br>
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/65187002/172941127-4061fac1-736b-4c24-b7ea-c210b3578cc5.png">
@@ -21,7 +20,6 @@
 # 🏅 Como Exibir Suas Conquistas?
 
 #### A exibição de conquistas em seu perfil é totalmente opcional; por padrão, elas podem ser vistas por qualquer pessoa que visualize seu perfil público.
-
 #### Você pode optar por não exibir conquistas em seu perfil indo para suas [configurações de perfil](https://github.com/settings).
 
 <br>
@@ -79,15 +77,3 @@
 
 <br>
 
-# ℹ️ Mais Informações ℹ️
-
-#### Você pode encontrar mais informações sobre os Distintivos do GitHub neste [link](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/personalizing-your-profile#displaying-badges-on-your-profile).
-
-<!-- </div> -->
-<br>
-
-####  
-
-<div align="center">
-  <img align="center" width="50%" src="/Media/Badges/Pull-Shark/GIF/PullShark_Animated.gif">
-</div>
