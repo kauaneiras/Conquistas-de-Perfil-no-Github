@@ -7,7 +7,7 @@
 <div align="center">
   <picture>
   <!-- TODO Não consegui descobrir como adicionar corretamente links locais no lugar dessas imagens. Isso deve ser corrigido mais tarde. - @seanpm2001 !-->
-    <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/65187002/172940015-d9d072e7-c47d-4ddd-83f6-8e7717a721b8.png">
+    <source media="(prefers-color-scheme: light)" srcset="https://res.cloudinary.com/practicaldev/image/fetch/s--8T45m7HC--/c_imagga_scale,f_auto,fl_progressive,h_720,q_auto,w_1280/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/c7yprgpyxwyeh6xna6p0.jpg">
     <img src="https://user-images.githubusercontent.com/65187002/172940773-7ef23b63-3356-4634-9e52-34f2676e2854.png">
   </picture><br>
   <picture>
